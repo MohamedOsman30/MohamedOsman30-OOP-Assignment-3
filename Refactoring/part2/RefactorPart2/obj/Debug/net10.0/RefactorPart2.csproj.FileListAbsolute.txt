@@ -1,0 +1,15 @@
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\bin\Debug\net10.0\RefactorPart2.exe
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\bin\Debug\net10.0\RefactorPart2.deps.json
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\bin\Debug\net10.0\RefactorPart2.runtimeconfig.json
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\bin\Debug\net10.0\RefactorPart2.dll
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\bin\Debug\net10.0\RefactorPart2.pdb
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\obj\Debug\net10.0\RefactorPart2.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\obj\Debug\net10.0\RefactorPart2.AssemblyInfoInputs.cache
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\obj\Debug\net10.0\RefactorPart2.AssemblyInfo.cs
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\obj\Debug\net10.0\RefactorPart2.csproj.CoreCompileInputs.cache
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\obj\Debug\net10.0\RefactorPart2.sourcelink.json
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\obj\Debug\net10.0\RefactorPart2.dll
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\obj\Debug\net10.0\refint\RefactorPart2.dll
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\obj\Debug\net10.0\RefactorPart2.pdb
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\obj\Debug\net10.0\RefactorPart2.genruntimeconfig.cache
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Refactoring\part2\RefactorPart2\obj\Debug\net10.0\ref\RefactorPart2.dll

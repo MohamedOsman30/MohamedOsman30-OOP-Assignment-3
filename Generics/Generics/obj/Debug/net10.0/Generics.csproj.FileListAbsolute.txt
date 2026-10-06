@@ -1,0 +1,15 @@
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\obj\Debug\net10.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\obj\Debug\net10.0\Generics.AssemblyInfoInputs.cache
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\obj\Debug\net10.0\Generics.AssemblyInfo.cs
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\obj\Debug\net10.0\Generics.csproj.CoreCompileInputs.cache
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\obj\Debug\net10.0\Generics.sourcelink.json
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\bin\Debug\net10.0\Generics.exe
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\bin\Debug\net10.0\Generics.deps.json
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\bin\Debug\net10.0\Generics.runtimeconfig.json
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\bin\Debug\net10.0\Generics.dll
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\bin\Debug\net10.0\Generics.pdb
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\obj\Debug\net10.0\Generics.dll
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\obj\Debug\net10.0\refint\Generics.dll
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\obj\Debug\net10.0\Generics.pdb
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\obj\Debug\net10.0\Generics.genruntimeconfig.cache
+E:\My Files\Assisgments\submission7\MohamedOsman30-OOP-Assignment-3\Generics\Generics\obj\Debug\net10.0\ref\Generics.dll
