@@ -1,0 +1,1 @@
+Repository Pattern أو Generic Repository
